@@ -1,0 +1,14 @@
+h1{
+    color:rgb(60, 60, 172);
+    font-size:40px;
+}
+.bodybackground{
+    background-image:url("https://s1.1zoom.me/big0/105/430965-Kycb.jpg");
+    background-position:center;
+    background-size:cover;
+}
+#mycanvas{
+    border-width:15px;
+    background-color: rgb(255, 255, 255);
+    border-style:ridge;
+}
